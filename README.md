@@ -6,6 +6,7 @@
 [![Speech Recognition](https://img.shields.io/badge/Speech%20Recognition-lightblue.svg)](https://pypi.org/project/SpeechRecognition/)
 [![UV](https://img.shields.io/badge/UV-Package%20Manager-green.svg)](https://docs.astral.sh/uv/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Author site](https://img.shields.io/badge/author-ysskrishna.space-informational)](https://ysskrishna.space)
 
 Practice medical communication with AI-powered text & voice feedback. This Streamlit app uses Google Generative AI to simulate patient scenarios and deliver instant, intelligent evaluations.
 
@@ -152,10 +153,32 @@ The AI evaluates responses across four key dimensions:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+## Built and maintained by
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+AI Healthcare Assistant is built and maintained by:
 
-**Author:** [Siva Sai Krishna](https://github.com/ysskrishna)
+| | Name | GitHub | Role |
+|---|------|--------|------|
+| <img src="https://github.com/ysskrishna.png?size=120" width="60" height="60" alt="Y. Siva Sai Krishna"> | **Y. Siva Sai Krishna** | [@ysskrishna](https://github.com/ysskrishna) | Creator |
 
+## Support
 
+If you find this project helpful:
+
+- ⭐ Star the repository
+- 🐛 [Report issues](https://github.com/ysskrishna/ai-healthcare-assistant/issues)
+- 🔀 Submit pull requests
+- 💝 [Sponsor on GitHub](https://github.com/sponsors/ysskrishna)
+
+## License
+
+MIT © [Y. Siva Sai Krishna](https://github.com/ysskrishna) — see [LICENSE](LICENSE) for details.
+
+---
+
+<p align="left">
+  <a href="https://github.com/ysskrishna">Author's GitHub</a> •
+  <a href="https://linkedin.com/in/ysskrishna">Author's LinkedIn</a> •
+  <a href="https://ysskrishna.space">Author's site</a> •
+  <a href="https://github.com/ysskrishna/ai-healthcare-assistant/issues">Report Issues</a>
+</p>
